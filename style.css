@@ -1,0 +1,91 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #7FFFD4;
+    width: 100%;
+    height: 125px;
+}
+
+._icon{
+    margin: 40px 10px 0px 10px;
+}
+
+.instagram {
+    height: 40px;
+    width: 40px;
+}
+.instagram_container{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.vk {
+    height: 40px;
+    width: 40px;
+}
+.vk_container{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.tg {
+    height: 40px;
+    width: 40px;
+}
+.tg_container{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.v{
+    height: 100px;
+    width: 100px;
+    margin: 15px 450px 20px 20px;
+}
+.body{
+    background-color: #e1edea;
+    height: 200px;
+    width: 100%;
+}
+* {
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.text1 {
+    font-style: serif;
+    text-align: center;
+    margin-top: 150px;
+    color: #565c5a;
+}
+.text2 {
+    font-style: serif;
+    text-align: center;
+    margin-top: 12px;
+    color: #565c5a;
+}
+.text3 {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 700px;
+    color: #858c8a;
+}
+.vika {
+    float: left;
+    height: 500px;
+    width: 475px;
+    margin: 50px 15px 15px 70px;
+}
+.footer {
+    display: flex;
+    width: 100%;
+    height: 75px;
+    background-color: black;
+}
+.text4 {
+    color: #7FFFD4;
+    margin: 20px 20px 20px 150px;
+    font-size: 20pt;
+}
